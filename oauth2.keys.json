@@ -1,0 +1,13 @@
+{
+    "installed": {
+        "client_id": "941125786041-o2mvoas0jmrnc9qbeq3mt7hif7t0uvuq.apps.googleusercontent.com",
+        "project_id": "ia-natif",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost"
+        ]
+    }
+}
